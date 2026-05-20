@@ -16,7 +16,7 @@ It supports adding, editing, deleting, and marking todos as completed, with pers
 ---
 # 📝 React Todo App
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-green)](https://todo-application-rishavranjan07s-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-green)](https://todo-application-green-one.vercel.app/)
 
 ---
 
