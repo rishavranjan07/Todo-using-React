@@ -14,6 +14,11 @@ It supports adding, editing, deleting, and marking todos as completed, with pers
 - Responsive UI styled with Tailwind CSS
 
 ---
+# 📝 React Todo App
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-green)](https://todo-application-rishavranjan07s-projects.vercel.app/)
+
+---
 
 ## 📂 Project Structure
 
